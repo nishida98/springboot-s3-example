@@ -13,7 +13,7 @@ public class S3Config {
 
     @Bean
     public BasicAWSCredentials crenditials() {
-        return new BasicAWSCredentials("AKIARILDOGGDAGT5QUVX", "RXKOj8il3rL5DFdlqOxY4UNvp07gOOhov6hiIpXZ");
+        return new BasicAWSCredentials("", "");
     }
 
     @Bean
